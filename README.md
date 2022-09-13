@@ -62,13 +62,13 @@
 
 ### My GitHub Statistic :
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakask&show_icons=true&locale=en&layout=compact" alt="rakask" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakask&theme=onedark&show_icons=true&locale=en&layout=compact" alt="rakask" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakask&show_icons=true&locale=en" alt="rakask" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakask&theme=onedark&show_icons=true&locale=en" alt="rakask" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakask&" alt="rakask" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakask&theme=onedark&" alt="rakask" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakask" alt="rakask" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakask&theme=onedark" alt="rakask" /></a> </p>
 
 
 
