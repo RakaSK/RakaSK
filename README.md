@@ -25,7 +25,7 @@
 
 <!-- [website]: https://rakask.github.io -->
 [twitter]: ""
-[youtube]: ""
+[youtube]: "https://www.youtube.com/channel/UC7qlInUXpVTYMXTHn47vH7g/videos"
 [facebook]: ""
 [instagram]: https://instagram.com/rakasuryak_
 <!-- [linkedin]: "" -->
