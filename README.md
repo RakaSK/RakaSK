@@ -21,11 +21,12 @@
 [<img align="left" alt="Raka Surya Kusuma | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="Raka Surya Kusuma | Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
 [<img align="left" alt="Raka Surya Kusuma | YouTube" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[youtube]: https://www.youtube.com/channel/UC7qlInUXpVTYMXTHn47vH7g/videos
 [<img align="left" alt="Raka Surya Kusuma | Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 
 <!-- [website]: https://rakask.github.io -->
 [twitter]: ''
-[youtube]: https://www.youtube.com/channel/UC7qlInUXpVTYMXTHn47vH7g/videos
+
 [facebook]: ''
 [instagram]: https://instagram.com/rakasuryak_
 <!-- [linkedin]: "" -->
