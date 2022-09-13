@@ -1,7 +1,7 @@
 <!-- ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Raka Surya Kusuma</h1>
-<h3 align="center">I am Junior Programer. Wish me luck!</h3>
+<h3 align="center">I am Junior Programer. Wish me luck!</h3><br/><br/>
 
 ![Profile views](https://gpvc.arturio.dev/rakask)
 <h4> My name is Raka Surya Kusuma, just call me Raka :) </h4>
