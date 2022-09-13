@@ -24,9 +24,9 @@
 [<img align="left" alt="Raka Surya Kusuma | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 
 <!-- [website]: https://rakask.github.io -->
-[twitter]: ""
-[youtube]: "https://www.youtube.com/channel/UC7qlInUXpVTYMXTHn47vH7g/videos"
-[facebook]: ""
+[twitter]: 
+[youtube]: https://www.youtube.com/channel/UC7qlInUXpVTYMXTHn47vH7g/videos
+[facebook]: 
 [instagram]: https://instagram.com/rakasuryak_
 <!-- [linkedin]: "" -->
 
