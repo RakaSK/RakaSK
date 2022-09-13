@@ -4,7 +4,7 @@ Do the best, Be the best, and let God do the rest
 
 🏫 I’m currently studying on Univeritas Sebelas Maret
 
-💻 I’m currently learning Website Development, Game Development, IoT
+💻 I’m currently learning Mobile Development, Website Development, Game Development, IoT
 
 💬 Ask me about PHP, HTML, CodeIgniter, Laravel, Arduino
 
