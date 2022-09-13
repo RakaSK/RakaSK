@@ -8,7 +8,7 @@ Do the best, Be the best, and let God do the rest
 
 💬 Ask me about PHP, HTML, CodeIgniter, Laravel, Arduino
 
-👨‍💻 More about me at https://rakask.github.com
+👨‍💻 More about me at https://rakask.github.io
 
 
 <!---
