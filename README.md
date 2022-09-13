@@ -4,11 +4,11 @@
 <h3 align="center">I am Junior Programer. Wish me luck!</h3>
 
 ![Profile views](https://gpvc.arturio.dev/rakask)
-<h4> My name is Raka Surya Kusuma, just call me Raka </h4>
+<h4> My name is Raka Surya Kusuma, just call me Raka :) </h4>
 
 - 🏫 I’m currently studying at Sebelas Maret University 
 - 💻 I’m currently learning Mobile Development, Website Development, Game Development, and IoT
-- 💬 Ask me about anything
+- 💬 Ask me about anything...
 - 📫 How to reach me: rakakusuma20@gmail.com
 -  Visit my personal website: https://rakask.github.io/
 
@@ -37,7 +37,7 @@
 
 ---
 
-### My GitHub Stats:
+### My GitHub Statistic:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakask&show_icons=true&locale=en&layout=compact" alt="rakask" /></p>
 
