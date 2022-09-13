@@ -10,7 +10,7 @@
 - 💻 I’m currently learning Mobile Development, Website Development, Game Development, and IoT
 - 💬 Ask me about anything...
 - 📫 How to reach me: rakakusuma20@gmail.com
--  Visit my personal website: https://rakask.github.io/
+- 🌏 Visit my personal website: https://rakask.github.io/
 
 
 
