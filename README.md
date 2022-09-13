@@ -19,12 +19,14 @@
 <!-- [<img align="left" alt="rakask" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" />][website] -->
 <!-- [<img align="left" alt="Raka Surya Kusuma | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="Raka Surya Kusuma | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="left" alt="Raka Surya Kusuma | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
 [<img align="left" alt="Raka Surya Kusuma | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" alt="Raka Surya Kusuma | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 
 <!-- [website]: https://rakask.github.io -->
 [twitter]: ""
 [youtube]: ""
+[facebook]: ""
 [instagram]: https://instagram.com/rakasuryak_
 <!-- [linkedin]: "" -->
 
